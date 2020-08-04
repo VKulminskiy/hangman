@@ -14,7 +14,7 @@ cd hangman
 ~~~
 * Запустите программу:
 ~~~
-ruby hangman.rb
+bundle exec ruby main.rb
 ~~~
 ## Добавление слов
 * Пользователь может добавлять свои слова в файле words.txt, расположенный по адресу hangman/data/words.txt.

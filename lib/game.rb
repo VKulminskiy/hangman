@@ -69,5 +69,4 @@ class Game
   def word
     return @letters.join
   end
-
 end
